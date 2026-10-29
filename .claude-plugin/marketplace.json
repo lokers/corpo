@@ -1,0 +1,14 @@
+{
+  "name": "corpo",
+  "description": "Corpo Translator. Says the quiet part out loud.",
+  "owner": {
+    "name": "lokers"
+  },
+  "plugins": [
+    {
+      "name": "corpo",
+      "source": "./",
+      "description": "Rewrites workplace English between oily corpo and the rude motive underneath."
+    }
+  ]
+}

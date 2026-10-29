@@ -1,0 +1,10 @@
+{
+  "name": "corpo",
+  "displayName": "Corpo Translator",
+  "description": "Rewrites English between oily workplace corpo and blunt colloquial speech by translating the motive, not the politeness.",
+  "author": {
+    "name": "lokers"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/lokers/corpo"
+}
